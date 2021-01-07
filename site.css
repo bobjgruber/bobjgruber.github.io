@@ -24,7 +24,7 @@ h3 {
 }
 
 #subtitle {
-    color: #D7D2CB;
+    color: dimgray;
 }
 
 #section {
@@ -53,3 +53,26 @@ h3 {
 li{
     margin: 10px 0;
 }
+
+a:link {
+  color: dimgray; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: dimgray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #862633;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: dimgray;
+  background-color: transparent;
+  text-decoration: underline;
